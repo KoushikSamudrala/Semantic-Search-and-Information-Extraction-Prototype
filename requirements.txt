@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tika
+spacy
+spacy-transformers
+elasticsearch
+neo4j
